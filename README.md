@@ -1,2 +1,2 @@
 # scrapy-deduplication
-Deduplication middleware based on locality-sensitve hashing for scrapy (https://scrapy.org/).
+Deduplication middleware for scrapy (https://scrapy.org/) based on locality-sensitve hashing.
